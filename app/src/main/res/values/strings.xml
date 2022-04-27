@@ -16,4 +16,6 @@
     <string name="change_sport">Change Sport</string>
     <string name="change_date">Change date</string>
     <string name="go_back">Go back</string>
+    <string name="training_saved">Training Saved!</string>
+    <string name="paragraph">You successfully edited your training.\nPress button \"Go Back\" to check your\nedited training</string>
 </resources>

@@ -214,7 +214,7 @@
                     android:layout_marginTop="22dp"
                     android:text="@string/running"
                     android:textColor="@color/black"
-                    android:textSize="18sp"
+                    android:textSize="16sp"
                     android:textStyle="bold" />
 
 
@@ -238,16 +238,17 @@
                     android:layout_centerHorizontal="true"
                     android:layout_marginTop="20dp"
                     android:src="@drawable/bicycle" />
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/cycling"
-                    android:textStyle="bold"
-                    android:textSize="18sp"
-                    android:textColor="@color/black"
-                    android:layout_marginTop="22dp"
+                    android:layout_below="@+id/iv2"
                     android:layout_centerHorizontal="true"
-                    android:layout_below="@+id/iv2"/>
+                    android:layout_marginTop="22dp"
+                    android:text="@string/cycling"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
 
             </RelativeLayout>
 
@@ -269,16 +270,17 @@
                     android:layout_centerHorizontal="true"
                     android:layout_marginTop="20dp"
                     android:src="@drawable/walking" />
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/walking"
-                    android:textStyle="bold"
-                    android:textSize="18sp"
-                    android:textColor="@color/black"
-                    android:layout_marginTop="22dp"
+                    android:layout_below="@+id/iv3"
                     android:layout_centerHorizontal="true"
-                    android:layout_below="@+id/iv3"/>
+                    android:layout_marginTop="22dp"
+                    android:text="@string/walking"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
 
 
             </RelativeLayout>
@@ -310,7 +312,7 @@
                     android:layout_marginTop="22dp"
                     android:text="@string/trekking"
                     android:textColor="@color/black"
-                    android:textSize="18sp"
+                    android:textSize="16sp"
                     android:textStyle="bold" />
 
 

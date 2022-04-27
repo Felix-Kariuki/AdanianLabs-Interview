@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="35dp"
-        android:text="Training Saved!"
+        android:text="@string/training_saved"
         android:textColor="@color/black"
         android:textSize="27sp"
         android:textStyle="bold" />
@@ -30,7 +30,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="7dp"
         android:gravity="center"
-        android:text="You successfully editted your training.\nPress button 'Go Back' to check your\nedited training "
+        android:text="@string/paragraph"
         android:textColor="@color/Grey" />
 
     <ImageView
@@ -38,6 +38,7 @@
         android:layout_height="250dp"
         android:layout_margin="25dp"
         android:padding="20dp"
+        android:contentDescription="@string/training_saved"
         android:layout_gravity="center"
         android:src="@drawable/file"/>
 
